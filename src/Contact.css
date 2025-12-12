@@ -1,0 +1,71 @@
+/* Page background */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f1f3f6;
+}
+
+/* Main container */
+.contact-container {
+  text-align: center;
+}
+
+/* Top header bar */
+.header {
+  background: #2ba8ff;
+  padding: 15px;
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+/* Content area */
+.content {
+  margin-top: 40px;
+}
+
+.content h1 {
+  font-size: 32px;
+  color: #333;
+}
+
+.content p {
+  font-size: 18px;
+  color: #555;
+}
+
+/* Contact info card */
+.contact-box {
+  margin: 30px auto;
+  width: 350px;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.contact-box h2 {
+  margin-bottom: 15px;
+  color: #2ba8ff;
+}
+
+.contact-box p {
+  margin: 8px 0;
+  color: #444;
+}
+
+/* Button */
+.btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #2ba8ff;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background: #007acc;
+}
