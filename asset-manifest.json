@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jayanth-17-abd/react1.git/static/css/main.928adb9f.css",
+    "main.js": "/Jayanth-17-abd/react1.git/static/js/main.68485e14.js",
+    "index.html": "/Jayanth-17-abd/react1.git/index.html",
+    "main.928adb9f.css.map": "/Jayanth-17-abd/react1.git/static/css/main.928adb9f.css.map",
+    "main.68485e14.js.map": "/Jayanth-17-abd/react1.git/static/js/main.68485e14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.928adb9f.css",
+    "static/js/main.68485e14.js"
+  ]
+}
